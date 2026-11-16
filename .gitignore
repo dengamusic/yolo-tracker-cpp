@@ -1,0 +1,6 @@
+.venv/
+build/
+models/*.onnx
+*.pt
+.DS_Store
+runs
